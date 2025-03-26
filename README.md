@@ -72,9 +72,9 @@ L’objectif principal est de fournir un outil **intuitif, moderne et efficace**
 
 **Lucas Aveline**  
 BTS SIO - SLAM 2024/2025  
-📧 lucasaveline09@gmail.com 
+📧 lucasaveline09@gmail.com
 📍 Paris, France  
-🔗 [Linkedin]([url](https://www.linkedin.com/in/lucas-aveline/))
+🔗 [[Linkedin]([url](https://www.linkedin.com/in/lucas-aveline/))](https://www.linkedin.com/in/lucas-aveline/)
 
 ---
 
