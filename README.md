@@ -37,13 +37,6 @@ L’objectif principal est de fournir un outil **intuitif, moderne et efficace**
 - Vue synthétique des projets et tâches
 - Graphiques d’avancement
 
-## 🧱 Modèle de Données
-
-- **Projet** : Nom, Description, Date début/fin, % d’avancement
-- **Tâche** : Nom, Statut, Priorité, Échéance, Projet lié, Membres assignés
-- **Notification** : Type, Message, Date
-- **Rapport** : Fichiers générés (PDF/Excel)
-
 ---
 
 ## 🎯 Objectifs
