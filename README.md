@@ -82,4 +82,4 @@ BTS SIO - SLAM 2024/2025
 
 1. Cloner le projet :
 ```bash
-git clone https://github.com/Sunlama0/TaskManager---Lucas-Aveline
+git clone https://github.com/Sunlama0/NexSecure-Gestionnaire-de-Projets-et-de-Taches
