@@ -62,8 +62,6 @@ L’objectif principal est de fournir un outil **intuitif, moderne et efficace**
 | Backend      | C# / .NET                        |
 | Base de Données | SQLite                        |
 | ORM          | Entity Framework Core            |
-| PDF          | PDFSharp                         |
-| JSON         | Newtonsoft.Json                  |
 
 
 ---
